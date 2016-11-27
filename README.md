@@ -1,7 +1,7 @@
 # hrm
 Human Resource Management
 Modules List: <br/>
--------------------------<br/>
+--------------------------------------------------<br/>
 1. Administrative Module <br/>
 2. Recruitment Module <br/>
 3. Personal Information Manager Module (PIM)<br/>
